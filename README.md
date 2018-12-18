@@ -2,7 +2,7 @@
 French Discord bot Fortnite :
 https://www.fortniteranked.fr/
 
-# Features:
+Features:
 Graphique Display Stats, Shop fortnite, Random localisation, Challenge, News, scrim and more...
 
 Plateformes: 
@@ -10,7 +10,7 @@ PC=pc
 XBOX=xbl
 PS4=psn
 
-# Stats - Link commandes :
+Stats - Link commandes :
 
 -ftn <plateforme> <Epic game name>
 -ftn7 <plateforme> <Epic game name>
@@ -19,13 +19,13 @@ PS4=psn
 -link <plateforme> <Epic game name>
 -unlink <plateforme> <Epic game name>
   
-# Shop - News :
+Shop - News :
 -ftnshop
 -setchannel <id channel to display automatique shop>
 -newshop : Upcoming skin
 -ftnwiname : Total wins display automatique on your name
 
-# Options - Fun :
+Options - Fun :
 -setprefix <newprefix>
 -win
 -winliste
