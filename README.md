@@ -3,14 +3,15 @@ French Discord bot Fortnite :
 https://www.fortniteranked.fr/
 
 Features:<br>
-Graphique Display Stats, Shop fortnite, Random localisation, Challenge, News, scrim and more...
+Graphique Display Stats, Shop fortnite, Random localisation, Challenge, News, scrim and more...<br>
 
-Plateformes: 
-PC=pc
-XBOX=xbl
-PS4=psn
 
-Stats - Link commandes :
+Plateformes: <br>
+PC=pc<br>
+XBOX=xbl<br>
+PS4=psn<br>
+
+Stats - Link commandes :<br>
 
 -ftn <plateforme> <Epic game name><br>
 -ftn7 <plateforme> <Epic game name><br>
@@ -19,26 +20,26 @@ Stats - Link commandes :
 -link <plateforme> <Epic game name><br>
 -unlink <plateforme> <Epic game name><br>
   
-Shop - News :
--ftnshop
--setchannel <id channel to display automatique shop>
--newshop : Upcoming skin
--ftnwiname : Total wins display automatique on your name
+Shop - News :<br>
+-ftnshop<br>
+-setchannel <id channel to display automatique shop><br>
+-newshop : Upcoming skin<br>
+-ftnwiname : Total wins display automatique on your name<br>
 
-Options - Fun :
--setprefix <newprefix>
--win
--winliste
--windeleteall
--ftnsnipe
--ftndrop
--ftnchallenge
--masterkill
--ftnsupp <args>
--donate
--donator
+Options - Fun :<br>
+-setprefix <newprefix><br>
+-win<br>
+-winliste<br>
+-windeleteall<br>
+-ftnsnipe<br>
+-ftndrop<br>
+-ftnchallenge<br>
+-masterkill<br>
+-ftnsupp <args><br>
+-donate<br>
+-donator<br>
 
-# All info go to : 
+# All info go to : <br>
 https://www.fortniteranked.fr/
  
 
