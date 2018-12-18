@@ -1,5 +1,5 @@
 # FortniteRanked-Discord-Bot
-French Discord bot Fortnite :
+French Discord bot Fortnite :<br>
 https://www.fortniteranked.fr/
 
 Features:<br>
@@ -41,7 +41,10 @@ PS4=psn<br>
 # All info go to : <br>
 https://www.fortniteranked.fr/
  
-
+<center> <a href="https://discordbots.org/bot/424670184687534080" >
+  <img src="https://discordbots.org/api/widget/424670184687534080.svg" alt="Fortnite Ranked" />
+</a>
+</center>
 
 
 
