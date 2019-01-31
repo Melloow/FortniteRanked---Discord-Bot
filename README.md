@@ -12,29 +12,32 @@ XBOX=xbl<br>
 PS4=psn<br>
 
 # Stats - Link commandes :<br>
--ftn <plateforme> <Epic game name><br>
--ftn7 <plateforme> <Epic game name><br>
--ftnbest <plateforme> <Epic game name> <Epic game name><br>
--ftnbests7 <plateforme> <Epic game name> <Epic game name><br>
--link <plateforme> <Epic game name><br>
--unlink <plateforme> <Epic game name><br>
+-fn <plateforme> <Epic game name><br>
+-fn7 <plateforme> <Epic game name><br>
+-fnbest <plateforme> <Epic game name> <Epic game name><br>
+-fnbests7 <plateforme> <Epic game name> <Epic game name><br>
+-fnlink <plateforme> <Epic game name><br>
+-fnunlink <plateforme> <Epic game name><br>
   
 # Shop - News :<br>
--ftnshop<br>
--setchannel <id channel to display automatique shop><br>
--newshop : Upcoming skin<br>
--ftnwiname : Total wins display automatique on your name<br>
+-fnshop<br>
+-fnshopauto <id channel to display automatique shop><br>
+-fnewshop : Upcoming skin<br>
+-fnews : show news in fortnite <br>
+-fnewsauto : show automatic news fortnite<br>
+-fnewsoff : disable news automatic fortnite<br>
+-fnwiname : Total wins display automatique on your name<br>
 
 # Options - Fun :<br>
--setprefix <newprefix><br>
--win<br>
--winliste<br>
--windeleteall<br>
--ftnsnipe<br>
--ftndrop<br>
--ftnchallenge<br>
+-fnprefix <newprefix><br>
+-fnwin<br>
+-fnwinliste<br>
+-fnwindeleteall<br>
+-fnsnipe<br>
+-fndrop<br>
+-fnchallenge<br>
 -masterkill<br>
--ftnsupp <args><br>
+-fnsupp <args><br>
 -donate<br>
 -donator<br>
 
